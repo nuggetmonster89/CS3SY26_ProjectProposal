@@ -2,12 +2,10 @@
 
 
 ## Project Proposal Template:
-cvbbbc
 ### Project Title or Name of the Application	:
 ### Section			   	      :
 ### Group Members			    :
 ### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
